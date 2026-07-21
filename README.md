@@ -12,7 +12,6 @@ Bem-vindo ao projeto Asics Mobile App, uma aplicação móvel desenvolvida em Re
 ## Tecnologias Utilizadas
 - **React Native:** Desenvolva uma aplicação móvel com desempenho nativo para iOS e Android.
 - **Redux (ou Context API):** Gerencie o estado da aplicação de maneira eficiente para uma experiência de usuário fluida.
-- **API de Pagamento:** Integre um serviço de pagamento confiável para transações seguras.
 
 
 
